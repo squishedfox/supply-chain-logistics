@@ -20,3 +20,9 @@ Analytics is the process of solving various levels within the supply chain. Some
 - What trends are presented over periods of time?
 
 These are not total comprehensive list of questions but commonly most used.
+
+## Item Insights
+
+- Retailer Reports - How often are attributes being exportinging?
+- Valid Items - Are all items appropretely setup and described for consumers? Are there details missing?
+- Total Items with Errors - 
