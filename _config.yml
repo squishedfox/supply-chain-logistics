@@ -6,3 +6,6 @@ url: https://just-the-docs.github.io
 
 aux_links:
   Template Repository: https://github.com/just-the-docs/just-the-docs-template
+
+source: "_docs" # where to read the markdown files from
+destination: "site" # where to put the compiled/transformed markdown files
