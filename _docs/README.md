@@ -1,3 +1,10 @@
+---
+title: Home
+permalink: /
+parent: null
+grand_parent: null
+has_children: false
+---
 # Supply Chain Logistics Knowledge Base (KB)
 
 ## Summary
